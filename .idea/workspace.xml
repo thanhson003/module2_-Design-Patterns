@@ -17,6 +17,7 @@
       <change afterPath="$PROJECT_DIR$/../Java-Text File/Find the maximum value/src/ReadAndWriteFile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java-Threading/practice runnable/src/MainRunnable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java-Threading/practice runnable/src/RunnableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -55,6 +56,7 @@
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
@@ -82,7 +84,7 @@
       <recent name="D:\codegym\Module_2\Java- Design Patterns\untitled" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactoryPatternDemo">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactoryMethod.exercise.FactoryPatternDemo" />
       <module name="CreationalDesignPattern" />
@@ -96,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectPoolDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectPool.Practice.ObjectPoolDemo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectPool.exercise.Main" />
       <module name="CreationalDesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectPool.Practice.*" />
+          <option name="PATTERN" value="ObjectPool.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,9 +111,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ObjectPoolDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectPool.Practice.ObjectPoolDemo" />
-      <module name="Java- Design Patterns" />
+      <module name="CreationalDesignPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ObjectPool.Practice.*" />
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FactoryPatternDemo" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.ObjectPoolDemo (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ObjectPoolDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776322869712</updated>
-      <workItem from="1776322871063" duration="5550000" />
+      <workItem from="1776322871063" duration="6253000" />
     </task>
     <servers />
   </component>
